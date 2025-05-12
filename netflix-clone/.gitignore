@@ -11,7 +11,7 @@
 # production
 /build
 
-# misc
+# miscNetflix-Clone-2025/netflix-clone/src/.env
 .DS_Store
 .env.local
 .env.development.local

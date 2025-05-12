@@ -12,15 +12,13 @@ function Footer() {
             <FacebookOutlinedIcon />
             <InstagramIcon/>
             <YouTubeIcon/>
-            
-          
+                
         </div>
 
         <div className="footer__data">
           <ul>
             <li>Audio Description</li>
             <li>Investor Relations</li>
-          
             <li>Legal Notices</li>
           </ul>
         </div>
@@ -31,9 +29,27 @@ function Footer() {
             <li>Cookie Preferences</li>
           </ul>
         </div>
+        <div>
+          <ul>
+            <li>Gift Cards</li>
+            <li>Terms of Use</li>
+            <li>Corporate Information</li>
+          </ul>
       </div>
-      
+      <div>
+          <ul>
+            <li>Media Center</li>
+            <li>Privacy</li>
+            <li>Contact Us</li>
+          </ul>
+        </div>
+        <div className="serrvice_code"></div>
+          <p>Service Code</p>
+        <div className="footer__copyright">
+          <p>© 2025 Netflix, Inc.</p>
+      </div>
     </div>
+  </div>
   )
 }
 
